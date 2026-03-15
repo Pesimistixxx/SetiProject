@@ -1,0 +1,16 @@
+# Виртуальное окружение Python
+venv/
+.venv/
+
+# Байткод Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Настройки IDE
+.idea/
+.vscode/
+*.swp
+
+# Системные файлы
+.DS_Store
